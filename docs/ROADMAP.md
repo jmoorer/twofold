@@ -12,7 +12,7 @@ Milestones run in order; each ends with something playable on the web build. Siz
 - [x] Juice: trauma shake, hit-stop, zoom punch, lobbed casts, flashes, squash and stretch, debris
 - [x] Shop with 3 skills, fusion challenge bonus
 - [x] Smoke tests over every set and every fusion
-- [ ] CI: tests, web export, GitHub Pages deploy (in review)
+- [x] CI: tests, web export, GitHub Pages deploy
 
 ## M1: Feel and readability (S to M)
 
